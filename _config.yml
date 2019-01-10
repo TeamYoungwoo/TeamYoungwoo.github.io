@@ -43,6 +43,7 @@ disqus_id: teamyoungwoo
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-basically-basic
+highlighter: rough
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
