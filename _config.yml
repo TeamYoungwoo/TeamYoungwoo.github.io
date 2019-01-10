@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-US
 title: 너드라이트
-email:
+email: sbhk.it@gmail.com
 description: 쓰고 싶은 글을 씁니다.
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://TeamYoungwoo.github.io"
