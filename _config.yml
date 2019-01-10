@@ -38,7 +38,7 @@ algolia:
 # Disqus
 disqus: true
 disqus_url: sbhk.it@gmail.com
-disqus_id: nerdwrite
+disqus_id: teamyoungwoo
 
 # Build settings
 markdown: kramdown
