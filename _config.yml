@@ -18,7 +18,7 @@ title: 너드라이트
 email: sbhk.it@gmail.com
 description: 쓰고 싶은 글을 씁니다.
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: "https://TeamYoungwoo.github.io"
+url: "https://teamyoungwoo.github.io/"
 author:
   name:
   twitter:
