@@ -35,6 +35,11 @@ algolia:
   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
 
+# Disqus
+disqus: true
+disqus_url: sbhk.it@gmail.com
+disqus_id: nerdwrite
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-basically-basic
